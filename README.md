@@ -14,4 +14,10 @@ This pipeline of design approach has been successfully demonstrated on the custo
 
 https://au.trustpilot.com/review/www.myer.com.au
 
-Hence, the repository contains the following iPython notebooks and an example customer reviews dataset collected from Stage 1 of the process. 
+Hence, the repository contains the following iPython notebooks and an example customer reviews dataset collected from Stage 1 of the process:
+
+Web_scraping_SYYiu.ipynb
+
+Customer_Sentiment_Analysis_SYYiu.ipynb
+
+myer_customer_reviews.csv
